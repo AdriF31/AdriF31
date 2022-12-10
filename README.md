@@ -35,8 +35,8 @@
 
 ### 💻 Working Specs
 
-![WINDOWS](https://img.shields.io/badge/Windows-LENOVO_Ideapad_S540131ML-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Lenovo](	https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![WINDOWS](https://img.shields.io/badge/Windows-Acer_Aspire-5?style=for-the-badge&logo=windows&logoColor=white)
+![Lenovo](	https://img.shields.io/badge/Ryzen 5-5500U-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 
 ### 👨 Social
