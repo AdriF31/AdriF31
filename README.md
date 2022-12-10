@@ -36,7 +36,7 @@
 ### 💻 Working Specs
 
 ![WINDOWS](https://img.shields.io/badge/Windows-Acer_Aspire-5?style=for-the-badge&logo=windows&logoColor=white)
-![Acer](	https://img.shields.io/badge/Ryzen_5_5500U-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Acer](https://img.shields.io/badge/Ryzen_5_5500U-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
 
 ### 👨 Social
