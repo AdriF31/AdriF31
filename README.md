@@ -13,6 +13,7 @@
 
 ### 👨‍💻 Work Experience : 
 - PT. Jerbee Indonesia as Flutter Developer Intern
+- PT. Swamedia Informatika as Full time Flutter Developer
 
 ## ⚡ Tech Stack
 
