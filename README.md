@@ -39,8 +39,7 @@
 
 ### 💻 Working Specs
 
-![WINDOWS](https://img.shields.io/badge/Windows-Acer_Aspire-5?style=for-the-badge&logo=windows&logoColor=white)
-![Acer](https://img.shields.io/badge/Ryzen_5_5500U-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![Macbook Pro](https://img.shields.io/badge/Apple-MacBook_Pro_2020_M1-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 
 ### 👨 Social
@@ -58,6 +57,7 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![VSCCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriF31&theme=blue-green)
