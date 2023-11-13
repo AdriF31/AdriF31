@@ -60,8 +60,4 @@
 ![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriF31&theme=blue-green)
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdriF31&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriF31&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
